@@ -8,12 +8,12 @@
 - *Edad*: 22 años
 
 Hola! 
-Actualmente, soy tecnico superior en programacion recibido de la UTN FRGP, trabajo en el rubro hace aproximadamente 3 años.
+Actualmente, soy técnico superior en programación recibido de la UTN FRGP, trabajo en el rubro hace aproximadamente 3 años.
 
 Apasionado por la tecnología.
 
-Dentro de mis hobies estan:
-- Futbol
+Dentro de mis hobbies están:
+- Fútbol
 - Muay Thai
 - Videojuegos
 - Navegar
